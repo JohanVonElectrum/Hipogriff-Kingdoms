@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "hipogriffkingdoms",
+    "name": "Hipogriff Kingdoms",
+    "description": "Hipogriff Kingdoms [description]",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "www.hipogriff.tk",
+    "updateUrl": "www.hipogriff.tk/mods/hipogriffkingdoms",
+    "authorList": [
+      "JohanVonElectrum"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
