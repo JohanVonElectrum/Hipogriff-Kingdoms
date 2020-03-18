@@ -1,0 +1,6 @@
+{
+    "parent": "hipogriffkingdoms:item/base_staff",
+    "textures": {
+        "layer0": "hipogriffkingdoms:items/wooden_staff"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "hipogriffkingdoms:item/base_key",
+    "textures": {
+        "layer0": "hipogriffkingdoms:items/admin_key"
+    }
+}

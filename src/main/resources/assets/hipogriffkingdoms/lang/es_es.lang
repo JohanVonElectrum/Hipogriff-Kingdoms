@@ -1,0 +1,7 @@
+item.admin_key.name=Llave maestra
+item.wooden_staff.name=Bastón druida
+item.translocation_staff.name=Bastón de translocación
+item.infernal_staff.name=Bastón infernal
+
+itemGroup.staffs_tab=Hipogriff Kingdoms - Bastones
+itemGroup.keys_tab=Hipogriff Kingdoms - Llaves
